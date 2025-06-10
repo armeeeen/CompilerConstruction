@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armee\\source\\repos\\CCp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|solutionrelative:CCp2\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Errors.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|solutionrelative:CCp2\\Errors.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\symbolTable.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|solutionrelative:CCp2\\symbolTable.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\literaltable.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|solutionrelative:CCp2\\literaltable.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Tokens.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|solutionrelative:CCp2\\Tokens.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|solutionrelative:CCp2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\lexer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|solutionrelative:CCp2\\lexer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A002D31-1373-4F3B-8520-FCB32D0788C4}|CCp2\\CCp2.vcxproj|solutionrelative:CCp2\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parser.cpp",
+              "DocumentMoniker": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Parser.cpp",
+              "RelativeDocumentMoniker": "CCp2\\Parser.cpp",
+              "ToolTip": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Parser.cpp",
+              "RelativeToolTip": "CCp2\\Parser.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPsBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T15:12:44.548Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parser.h",
+              "DocumentMoniker": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Parser.h",
+              "RelativeDocumentMoniker": "CCp2\\Parser.h",
+              "ToolTip": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Parser.h",
+              "RelativeToolTip": "CCp2\\Parser.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T08:21:01.3Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lexer.cpp",
+              "DocumentMoniker": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\lexer.cpp",
+              "RelativeDocumentMoniker": "CCp2\\lexer.cpp",
+              "ToolTip": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\lexer.cpp",
+              "RelativeToolTip": "CCp2\\lexer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANwEAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T15:08:56.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\input.txt",
+              "RelativeDocumentMoniker": "CCp2\\input.txt",
+              "ToolTip": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\input.txt",
+              "RelativeToolTip": "CCp2\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T15:13:46.224Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tokens.txt",
+              "DocumentMoniker": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Tokens.txt",
+              "RelativeDocumentMoniker": "CCp2\\Tokens.txt",
+              "ToolTip": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Tokens.txt",
+              "RelativeToolTip": "CCp2\\Tokens.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T15:12:07.176Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "literalTable.txt",
+              "DocumentMoniker": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\literalTable.txt",
+              "RelativeDocumentMoniker": "CCp2\\literalTable.txt",
+              "ToolTip": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\literalTable.txt",
+              "RelativeToolTip": "CCp2\\literalTable.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T15:10:30.711Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "symbolTable.txt",
+              "DocumentMoniker": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\symbolTable.txt",
+              "RelativeDocumentMoniker": "CCp2\\symbolTable.txt",
+              "ToolTip": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\symbolTable.txt",
+              "RelativeToolTip": "CCp2\\symbolTable.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T15:11:12.887Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Errors.txt",
+              "DocumentMoniker": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Errors.txt",
+              "RelativeDocumentMoniker": "CCp2\\Errors.txt",
+              "ToolTip": "C:\\Users\\armee\\source\\repos\\CCp2\\CCp2\\Errors.txt",
+              "RelativeToolTip": "CCp2\\Errors.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T15:11:41.052Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

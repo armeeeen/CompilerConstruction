@@ -1,0 +1,10 @@
+Mantiqi loopPartial_(Matn x_) 
+{
+    ::
+    {
+      ::
+      {
+        while(25* ( (5*0)/7 )/_x) Harf v_ ,d_::
+      }
+    }
+}
