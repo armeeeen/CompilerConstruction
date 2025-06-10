@@ -1,4 +1,3 @@
-"# CompilerConstruction" 
 This project implements the Lexical Analyzer and Parser phases of a compiler using C++, based on a custom programming language grammar and specifications.
 Description:-
 This compiler front-end is built to scan and validate source code written in a custom-designed language, which includes unique keywords, identifiers, data types, and control structures. It consists of:
